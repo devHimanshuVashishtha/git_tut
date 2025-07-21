@@ -3,5 +3,5 @@ for(let i=0;i<arr.length;i++){
     console.log(arr[i])
     console.log(i);
     console.log("h");
-    console.log("hello")
+  
 }
